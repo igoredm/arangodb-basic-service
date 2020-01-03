@@ -1,0 +1,24 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /arangodb-service
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  profiles:
+    active: local
+  application:
+    name: arangodb-basic-service
+  datasource:
+    host: 10.11.3.47
+    port: 8529
+    username: root
+    password: root
+
+logging:
+  level:
+    br: TRACE
+
+---
+spring:
+  profiles: local

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70e2a76f-8f7d-472a-9d5a-37958f766b77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/igoredm/arangodbbasicservice/model/entity/LogEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/igoredm/arangodbbasicservice/model/repository/LogRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/igoredm/arangodbbasicservice/model/service/LogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/igoredm/arangodbbasicservice/model/entity/LogEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/igoredm/arangodbbasicservice/model/entity/LogEntity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Projetos/DAYCOVAL/daycoval-servicos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../kasppermongo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -84,7 +81,9 @@
       <option name="presentableId" value="Default" />
       <updated>1578064397961</updated>
       <workItem from="1578064402540" duration="2530000" />
-      <workItem from="1578068269651" duration="242000" />
+      <workItem from="1578068269651" duration="1194000" />
+      <workItem from="1578314205285" duration="715000" />
+      <workItem from="1578322386454" duration="1323000" />
     </task>
     <servers />
   </component>
@@ -96,9 +95,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2555" y="309" width="640" height="417" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.0.1920.1039@1920.0.1920.1080" timestamp="1578064745775" />
-    <state x="2610" y="219" width="530" height="597" key="FileChooserDialogImpl" timestamp="1578068283273">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="690" y="211" width="530" height="597" key="FileChooserDialogImpl" timestamp="1578322814995">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
-    <state x="2610" y="219" width="530" height="597" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1039@1920.0.1920.1080" timestamp="1578068283273" />
+    <state x="690" y="211" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1039@0.0.1920.1039" timestamp="1578322814995" />
+    <state x="2610" y="219" width="530" height="597" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1039@1920.0.1920.1080" timestamp="1578322417254" />
   </component>
 </project>
